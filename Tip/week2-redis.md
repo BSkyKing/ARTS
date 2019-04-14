@@ -80,8 +80,8 @@ Mac下redis的安装
 ------
 sudo /usr/local/redis-4.0.10/src/redis-server /usr/local/redis-4.0.10/etc/redis.conf
 
-命令太长了。。可以去 ～/.bash_profile 文件中添加别名(输入下面这行)
-   alias ro='sudo /usr/local/redis-5.0.4/src/redis-server /usr/local/redis-5.0.4/etc/redis.conf'
+命令太长了。。可以去 ～/.bash_profile 文件中添加别名(输入下面这行)<br/>
+   alias ro='sudo /usr/local/redis-5.0.4/src/redis-server /usr/local/redis-5.0.4/etc/redis.conf'<br/>
    这样，在终端就可以直接打ro 就能启动redis服务
 
 五、客户端
