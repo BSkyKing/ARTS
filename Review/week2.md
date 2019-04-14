@@ -1,7 +1,7 @@
 第二周的分享
 ========
     此次分享的是从事6年java开发的外国人对于学习java的一些心得。
-   [链接]（https://medium.com/@jianbao.tao/a-study-list-for-java-developers-56a3f35527a5）
+   [文章的链接](https://medium.com/@jianbao.tao/a-study-list-for-java-developers-56a3f35527a5)
 
    我大概理解是这样，他大致分了九个主题：<br/>
    1.如何写整洁的代码<br/>
