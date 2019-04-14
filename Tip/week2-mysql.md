@@ -39,5 +39,5 @@ Mac的mysql8安装
     2. 输入代码：sudo spctl --master-disable
     3. 按回车输入自己电脑密码，再次回车
     4 打开系统偏好设置 » 安全性与隐私，若显示任何来源，大功告成；若没有此选项，一定是你前面的步骤不对
-      ![如图所示]（https://upload-images.jianshu.io/upload_images/4387205-88ca91c04d911aca.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/665）
+      ![如图所示](https://upload-images.jianshu.io/upload_images/4387205-88ca91c04d911aca.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/665)
  
