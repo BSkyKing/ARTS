@@ -1,5 +1,6 @@
 package leetcode.btj.week2;
 
+import java.util.Date;
 import java.util.HashMap;
 
 public class LeetCodeOne {
@@ -79,6 +80,6 @@ public class LeetCodeOne {
     public static void main(String[] args) {
 
         int an = titleToNumber("AN");
-        System.out.println(an);
+        System.out.println(new Date());
     }
 }
